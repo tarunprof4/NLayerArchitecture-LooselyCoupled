@@ -1,6 +1,9 @@
 # NLayerArchitecture With Loosely Coupled Inversion of Control
 NLayerArchitecture With Loosely Coupled Inversion of Control
 
+In computing and systems design a loosely coupled system is one in which change in one component has minimal or no effect on other linked
+component. System can be called loosely coupled by multiple ways like agnostic to operating system, coupling of classes etc.
+
 Endpoint Url - http://localhost:35938/api/Customer
 
 ![2](https://user-images.githubusercontent.com/116249623/212545546-ca5ded9d-6d14-4df7-b2d6-b7168bd6050b.jpg)
