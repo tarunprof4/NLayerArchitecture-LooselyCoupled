@@ -1,5 +1,5 @@
-# NLayerArchitecture With Loosely Coupled Inversion of Control
-NLayerArchitecture With Loosely Coupled Inversion of Control
+# NLayerArchitecture With Loosely Coupled Inversion of Control in .Net C#
+NLayerArchitecture With Loosely Coupled Inversion of Control in .Net C#
 
 In computing and systems design a loosely coupled system is one in which change in one component has minimal or no effect on other linked
 component. System can be called loosely coupled by multiple ways like agnostic to operating system, coupling of classes etc.
