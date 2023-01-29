@@ -14,7 +14,7 @@ http://localhost:35938/api/Customer
 https://github.com/tarunprof4/NLayerArchitecture-TightlyCoupled
 
 
-The difference between tightly and loosely coupled is explained below via a use case.
+The difference between tightly and loosely coupled vs tightly coupled is explained below via a use case.
 
 # Use Case
 We need to switch the database from Mssql to MongoDB for both the repos. 
